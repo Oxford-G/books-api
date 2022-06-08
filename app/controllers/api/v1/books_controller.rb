@@ -32,7 +32,7 @@ module Api
       end
       private
       def book_params
-        params.permit(:title, :author, :category_id)
+        params.permit(:title, :author, :category_id, :user_id)
       end
       def set_book
         @book = Book.find(params[:id])
