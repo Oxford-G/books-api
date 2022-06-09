@@ -1,4 +1,4 @@
-# How to Build a RESTful API Authentication With JWT (TDD Approach)
+# RESTful API Authentication With JWT (TDD Approach)
 
 This is a tutorial course. In this project, we set up a simple Rails API-only-application. Rails API-only-applications are slimmed down compared to traditional Rails web applications. we we'll secure the login, register, and our book's endpoint using JWT.
 
